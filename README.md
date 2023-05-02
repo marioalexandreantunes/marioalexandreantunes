@@ -2,6 +2,9 @@
 <div align="center">
   <a href="https://github.com/marioalexandreantunes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioalexandreantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioalexandreantunes)](https://github.com/marioalexandreantunes/github-readme-stats)
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioalexandreantunes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
