@@ -1,5 +1,5 @@
 
-## Being able to write code is one thing, but being able to explain it to someone else is another. Like Einstein said, if you can’t explain it to a six-year-old, you don’t understand it yourself.
+#Repositório Principal
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/marioalexandreantunes">
@@ -10,7 +10,25 @@
  <div align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" height="300"/>
 </div>
- 
+  
+
+ ##5 main commandments for a senior programmer
+- [x] Write clean and well-documented code.
+- [x] Take responsibility for your actions and decisions.
+- [x] Stay up-to-date with new technologies and best practices.
+- [x] Collaborate and share knowledge with other developers.
+- [x] Prioritize security and code quality.
+
+###Old time quotes are 
+  
+ > Being able to write code is one thing, but being able to explain it to someone else is another. - Ryan Hodson
+  
+ > If you can’t explain it to a six-year-old, you don’t understand it yourself. - Albert Einstein
+  
+ > No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first. – Andy Hunt
+  
+
+ ---
 <div align="center"><br>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
