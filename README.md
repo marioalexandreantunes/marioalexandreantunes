@@ -1,5 +1,5 @@
 
-#Repositório Principal
+# Repositório Principal
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/marioalexandreantunes">
@@ -12,14 +12,14 @@
 </div>
   
 
- ##5 main commandments for a senior programmer
+ ## 5 main commandments for a senior programmer
 - [x] Write clean and well-documented code.
 - [x] Take responsibility for your actions and decisions.
 - [x] Stay up-to-date with new technologies and best practices.
 - [x] Collaborate and share knowledge with other developers.
 - [x] Prioritize security and code quality.
 
-###Old time quotes are 
+### Old time quotes are 
   
  > Being able to write code is one thing, but being able to explain it to someone else is another. - Ryan Hodson
   
@@ -69,11 +69,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</div>
-  
----
- 
-<div align="center"> 
+
   <a href="https://instagram.com/marioantunes1972" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mario-antunes-a90868a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://dev.to/marioalexandreantunes" target="_blank"><img alt="" src="https://img.shields.io/badge/dev.to-bcbcbc?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
