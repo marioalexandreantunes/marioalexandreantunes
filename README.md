@@ -4,7 +4,7 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/marioalexandreantunes">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=marioalexandreantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Estatisticas"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioalexandreantunes&show_icons=true&theme=dracula&hide_border=True&layout=compact&custom_title=Linguagens" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioalexandreantunes&show_icons=true&theme=dracula&layout=compact&custom_title=Linguagens" />
 </div>  
   
  <div align="center">
